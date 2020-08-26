@@ -1,7 +1,8 @@
 # Hi, I'm Yi-Chen(Jane) 🙌
 I'm **Yi-Chen**, an aspiring Business analyst with a passion for **business strategy**, **Performance Analysis** and **risk managment**.<br/>
 
-📌[PTT_studyabroad_analysis](https://github.com/supershortjane/PTT_studyabroad_analysis)
+📌Skills<br/>
+*NLP*:[PTT_studyabroad_analysis](https://github.com/supershortjane/PTT_studyabroad_analysis)<br/>
 
 
 About me:<br/>

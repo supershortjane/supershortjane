@@ -1,9 +1,8 @@
-
+# Hi, I'm Yi-Chen(Jane) 🙌
 
 <!--
 **supershortjane/supershortjane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Hi, I'm Yi-Chen(Jane) 🙌
 I'm **Yi-Chen**, an aspiring Business analyst with a passion for **business strategy**, **Performance Analysis** and **risk managment**.<br/>
 
 Featured Projects<br/>

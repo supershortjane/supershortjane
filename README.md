@@ -1,16 +1,16 @@
-### Hi there 👋
+
 
 <!--
 **supershortjane/supershortjane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Yi-Chen(Jane) 🙌
+I'm **Yi-Chen**, an aspiring Business analyst with a passion for **business strategy**, **Performance Analysis** and **risk managment**.<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Featured Projects<br/>
+📌[link to Google!](http://google.com)
+
+
+About me:<br/>
+💻My latest analysis work is [link to Google!](http://google.com)<br/>
+📊Check my latest visualization on [Tableau](https://public.tableau.com/profile/.13837625#!/)<br/>
+👧Know more about me on [Linkedin](https://www.linkedin.com/in/yi-chen-chiou-a80212127/)<br/>

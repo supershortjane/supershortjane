@@ -3,6 +3,7 @@ I'm **Yi-Chen**, an aspiring Business analyst with a passion for **business stra
 
 📌Skills<br/>
 *NLP*:[PTT_studyabroad_analysis](https://github.com/supershortjane/PTT_studyabroad_analysis)<br/>
+*Linear Regression*:[Boston_Housing_Price_Prediction](https://github.com/supershortjane/Boston_housing_price_LR)<br/>
 *Classification*:[Credit_Card_Fraud_Detection](https://github.com/supershortjane/Credit_Card_Fraud_Detection)<br/>
 
 

@@ -5,7 +5,9 @@ I'm **Yi-Chen**, an aspiring Business analyst with a passion for **business stra
 *NLP*:[PTT_studyabroad_analysis](https://github.com/supershortjane/PTT_studyabroad_analysis)<br/>
 *Linear Regression*:[Boston_Housing_Price_Prediction](https://github.com/supershortjane/Boston_housing_price_LR)<br/>
 *Classification*:[Credit_Card_Fraud_Detection](https://github.com/supershortjane/Credit_Card_Fraud_Detection)<br/>
-
+*Big Data*:[Hadoop-Practice](https://github.com/supershortjane/Hadoop-Practice)<br/>
+*Visualization*:[PowerBI-Practice](https://github.com/supershortjane/PowerBI-Practice)<br/>
+*Others*:[Linebot-using-Flask-and-sqlite3-practice](https://github.com/supershortjane/Linebot-using-Flask-and-sqlite3-practice)<br/>
 
 About me:<br/>
 💻My latest analysis work is [PTT_studyabroad_analysis](https://github.com/supershortjane/PTT_studyabroad_analysis)<br/>
